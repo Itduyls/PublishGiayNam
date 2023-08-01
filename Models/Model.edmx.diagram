@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4713b9a80b8f48e88fd0bb572213c12f" Name="Diagram1">
+        <EntityTypeShape EntityType="AppGiayNamModel.ca_positions" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.product_files" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.product_main" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.product_tags" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.sys_modules" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.sys_organization" Width="1.5" PointX="6.75" PointY="5.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.sys_token" Width="1.5" PointX="2.75" PointY="7.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.sys_users" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="AppGiayNamModel.sys_users_jwt" Width="1.5" PointX="8.75" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
