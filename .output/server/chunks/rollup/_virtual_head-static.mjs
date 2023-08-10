@@ -1,0 +1,4 @@
+const _virtual__headStatic = {"headTags":"<meta charset=\"utf-8\">\n<title>Những mẫu giày nam đẹp nhất</title>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta name=\"description\" content=\"Giày nam: website bán giày da bò cao cấp cho nam đã có mặt trên thị trường từ những năm 2009. Toàn bộ sản phẩm giày tại shop đều được làm bằng da bò có chế bộ bảo hành hẫu mại đến khi hỏng\">\n<meta name=\"keywords\" content=\"Giày nam 2023 giá rẻ, Giầy nam 2023, Giày lười nam, Giày mọi nam, Giày tăng chiều cao nam, Giày cao cổ nam, Giày nam đẹp - Giaynam.com - website bán giày nam chất lượng hàng đầu việt nam\">\n<link rel=\"stylesheet\" href=\"./assets/base.css\">\n<link rel=\"icon\" type=\"image/x-icon\" href=\"./favicon.ico\">","bodyTags":"","bodyTagsOpen":"","htmlAttrs":"","bodyAttrs":""};
+
+export { _virtual__headStatic as default };
+//# sourceMappingURL=_virtual_head-static.mjs.map
